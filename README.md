@@ -28,9 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/jH9kPSl' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/jH9kPSl"  ><a href="//imgur.com/a/jH9kPSl">Pre work for iOS application</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://imgur.com/gallery/jH9kPSl' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+()[https://imgur.com/gallery/jH9kPSl]
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
